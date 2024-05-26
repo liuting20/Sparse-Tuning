@@ -11,5 +11,16 @@ In this paper, we propose **Sparse-Tuning**, a novel tuning paradigm that substa
 
 :pushpin: We confirm that the relevant code and implementation details will be uploaded recently. Please be patient.
 
+## Citation
+Please consider citing our paper in your publications, if our findings help your research.
+```bibtex
+@article{liu2024sparse,
+  title={{Sparse-Tuning}: Adapting Vision Transformers with Efficient Fine-tuning and Inference},
+  author={Liu, Ting and Liu, Xuyang and Shi, Liangtao and Xu, Zunnan and Huang, Siteng and Xin, Yi and Yin, Quanjun},
+  journal={arXiv preprint arXiv:2405.14700},
+  year={2024}
+}
+```
+
 ## Contact
 For any question about our paper or code, please contact [Ting Liu](mailto:liuting20@nudt.edu.cn) or [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
