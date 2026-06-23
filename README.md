@@ -16,7 +16,7 @@ Please consider citing our paper in your publications, if our findings help your
 ```bibtex
 @article{liu2024sparse,
   title={{Sparse-Tuning}: Adapting Vision Transformers with Efficient Fine-tuning and Inference},
-  author={Liu, Ting and Liu, Xuyang and Shi, Liangtao and Xu, Zunnan and Huang, Siteng and Xin, Yi and Yin, Quanjun},
+  author={Liu, Ting and Liu, Xuyang and Shi, Liangtao and Xu, Zunnan and Huang, Siteng, Xin Yi, Hu Yue, Zhong Bineng, Wang Donglin},
   journal={arXiv preprint arXiv:2405.14700},
   year={2024}
 }
