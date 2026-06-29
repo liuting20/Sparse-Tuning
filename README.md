@@ -11,6 +11,9 @@ In this paper, we propose **Sparse-Tuning**, a novel tuning paradigm that substa
 
 :pushpin: We confirm that the relevant code and implementation details will be uploaded recently. Please be patient.
 
+## Pretrained Models
+https://storage.googleapis.com/vit_models/imagenet21k/ViT-B_16.npz.
+
 ## Citation
 Please consider citing our paper in your publications, if our findings help your research.
 ```bibtex
